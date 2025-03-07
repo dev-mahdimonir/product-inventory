@@ -35,7 +35,7 @@
 ### Testing API
 
 - Use **_Postman_** .
-- Test the _Endpoints_ at `` .
+- Test the _Endpoints_ at `https://product-inventory-gray.vercel.app` .
 
 #### API Endpoints (CRUD Operations)
 
